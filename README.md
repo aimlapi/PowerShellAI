@@ -1,3 +1,27 @@
+![alt text](Repo-Closing.png)
+<br/>
+<br/>
+
+## Notice of Repository Closure
+
+This repository is now closed. I have moved to a new home to better serve its needs and continue development. 
+
+Thank you for your support and collaboration!
+
+The new repository includes key updates from the latest OpenAI announcements. Please visit [PSAI](https://github.com/dfinke/PSAI) to stay updated and contribute. 
+
+<img src="PSAI.png" alt="drawing" width="200"/>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 <strong><p align="center">OpenAI at your Fingertips! ✨</p></strong>
 <strong><p align="center">using PowerShell</p></strong>
 
