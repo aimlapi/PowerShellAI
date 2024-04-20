@@ -4,7 +4,7 @@
 
 ## Notice of Repository Closure
 
-This repository is now closed. I have moved to a new home to better serve its needs and continue development. 
+This repository is now closed. I have moved it to a new home to better serve its needs and continue development. 
 
 Thank you for your support and collaboration!
 
