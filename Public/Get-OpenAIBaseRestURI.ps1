@@ -7,5 +7,5 @@ function Get-OpenAIBaseRestURI {
         Invoke-OpenAIAPI ((Get-GHBaseRestURI)+'/models')
     #>
     
-    'https://api.openai.com/v1'
+    'https://api.aimlapi.com'
 }
